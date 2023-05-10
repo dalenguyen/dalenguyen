@@ -22,7 +22,7 @@
   </h1>
   
   <div>
-    ![Dale Github Stats](https://github-readme-stats.vercel.app/api?username=dalenguyen&count_private=true&show_icons=true&include_all_commits=true&hide=stars&custom_title=My%20GitHub%20Stats)
+    ![Dale Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalenguyen&count_private=true&show_icons=true&include_all_commits=true&hide=stars&custom_title=My%20GitHub%20Stats)
   </div>
 </div>
 

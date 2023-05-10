@@ -20,11 +20,10 @@
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
   </h1>
-  
-  <div>
-    ![Dale Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalenguyen&count_private=true&show_icons=true&include_all_commits=true&hide=stars&custom_title=My%20GitHub%20Stats)
-  </div>
 </div>
+
+![Dale Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalenguyen&count_private=true&show_icons=true&include_all_commits=true&hide=stars&custom_title=My%20GitHub%20Stats)
+
 
 <!--
 **dalenguyen/dalenguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

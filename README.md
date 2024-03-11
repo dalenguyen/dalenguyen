@@ -22,7 +22,15 @@
   </h1>
 </div>
 
+<p align="center">
+</p>
+
 ![Dale Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalenguyen&count_private=true&show_icons=true&include_all_commits=true&hide=stars&custom_title=My%20GitHub%20Stats)
+
+- 🔭 I’m currently working on how to make ecommerce works!
+- 🌱 I’m currently learning Rust (🦀), D3 and Shopify App
+- 💬 Ask me about Agular, GCP, TypeScript and Web Development
+- 📚 Check out my [Angular & PrimeNg book](https://www.amazon.com/dp/1803249811) 
 
 
 <!--
